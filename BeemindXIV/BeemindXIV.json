@@ -1,0 +1,12 @@
+{
+  "Author": "Marcus Crane <marcus@utf9k.net>",
+  "Name": "BeemindXIV",
+  "Punchline": "Keeping the Warrior of Light committed to their goals.",
+  "Description": "Use the power of Dalamud to track your XIV goals in Beeminder.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "beeminder",
+    "goals",
+    "tracking"
+  ]
+}

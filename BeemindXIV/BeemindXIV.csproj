@@ -4,10 +4,11 @@
 
   <PropertyGroup>
     <Version>0.0.0.1</Version>
-    <Description>A sample plugin.</Description>
-    <PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
+    <Description>Keeping the Warrior of Light committed to their goals.</Description>
+    <PackageProjectUrl>https://github.com/marcus-crane/BeemindXIV</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <IsPackable>false</IsPackable>
+    <RootNamespace>BeemindXIV</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
